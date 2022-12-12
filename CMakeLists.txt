@@ -12,7 +12,7 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   tf
   sensor_msgs
-  cv_bridge
+  cv_bridge_customized
   std_msgs
   image_transport
   mavros_msgs
